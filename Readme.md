@@ -7,7 +7,7 @@
 Un programme Java éducatif pour le calcul du produit de deux matrices 2x2, développé avec une architecture modulaire.
 
 **Auteur** : Fordi Malanda  
-**Institution** : Université de Kinshasa, Faculté des Sciences et Technologies, Département MATH-INFO
+**Institution** : Université de Kinshasa, Faculté des Sciences et Technologies, Département Mathématiques, Statistique et Informatiques
 
 ## 📦 Structure du Projet
 src/
@@ -36,3 +36,23 @@ javac src/com/fordimalanda/matrix/*.java
 
 # Exécution
 java -cp src com.fordimalanda.matrix.MatrixMultiplicationApp
+
+## 📝 Exemple d'Usage
+```
+Entrez les valeurs pour la matrice A
+Format: ( a1 a2 )
+        ( a3 a4 )
+
+Entrez la valeur de a1
+5
+...
+```
+
+## 📊 Fonctionnalités
+- [x] Saisie interactive
+- [x] Visualisation des matrices
+- [x] Calcul précis
+- [ ] Extension aux matrices NxM (à venir)
+
+## 📜 License
+MIT © [Fordi Malanda](https://github.com/fordimalanda)
