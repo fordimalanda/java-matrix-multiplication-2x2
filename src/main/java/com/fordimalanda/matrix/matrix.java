@@ -9,4 +9,17 @@ public class Matrix {
         this.a3 = a3;
         this.a4 = a4;
     }
+
+    public int getA1() { 
+        return a1; 
+        }
+    public int getA2() { 
+        return a2; 
+        }
+    public int getA3() { 
+        return a3;
+        }
+    public int getA4() {
+         return a4;
+        }
 }
