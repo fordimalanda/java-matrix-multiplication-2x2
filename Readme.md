@@ -11,10 +11,12 @@ Un programme Java éducatif pour le calcul du produit de deux matrices 2x2, dév
 
 ## 📦 Structure du Projet
 src/
+└── main/
+└── java/
 └── com/
 └── fordimalanda/
 └── matrix/
-├── Matrix.java # Modèle de données
+├── Matrix.java # Représente une matrice
 ├── MatrixCalculator.java # Logique de calcul
 ├── MatrixInputHandler.java # Gestion des entrées
 ├── MatrixPrinter.java # Affichage des matrices
