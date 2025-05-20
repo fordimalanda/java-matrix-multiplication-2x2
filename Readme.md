@@ -11,8 +11,8 @@ Un programme Java éducatif pour le calcul du produit de deux matrices 2x2, dév
 
 ## 📦 Structure du Projet
 src/
-└── main/
-└── java/
+- └── main/
+- └── java/
 └── com/
 └── fordimalanda/
 └── matrix/
