@@ -49,10 +49,12 @@ Entrez la valeur de a1
 ```
 
 ## 📊 Fonctionnalités
+```
 - [x] Saisie interactive
 - [x] Visualisation des matrices
 - [x] Calcul précis
 - [ ] Extension aux matrices NxM (à venir)
 
+```
 ## 📜 License
 MIT © [Fordi Malanda](https://github.com/fordimalanda)
